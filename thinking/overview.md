@@ -1,0 +1,25 @@
+- `Critical Thinking`: 
+    - It involves systematically analyzing and evaluating information to form reasoned judgments or decisions.
+    - It involves skills such as logical reasoning, skepticism, evidence evaluation, and effective communication.
+- `Lean Thinking`: 
+    - It is a management philosophy derived from the Toyota Production System, focusing on minimizing waste and maximizing value in processes. 
+    - It emphasizes continuous improvement, customer focus, and respect for people.
+- `Design Thinking`: 
+    - It is a human-centered approach to innovation and problem-solving that emphasizes empathy, creativity, and iterative prototyping. 
+    - It encourages interdisciplinary collaboration and a focus on understanding user needs to generate innovative solutions.
+- `Scenario Planning`:
+    - It involves envisioning multiple possible futures and assessing their implications to inform decision-making and strategy development. 
+    - It helps organizations anticipate and prepare for uncertain or unexpected events.
+- `Game Theory`: 
+    - It is a mathematical framework for analyzing strategic interactions between rational decision-makers. 
+    - It explores how individuals or organizations make decisions in competitive or cooperative situations and predicts their outcomes.
+- `Cynefin Framework`: 
+    - It is a sense-making tool that helps individuals and organizations understand the nature of problems they encounter and make appropriate decisions. 
+    - It categorizes problems into four domains: simple, complicated, complex, and chaotic, each requiring different approaches for problem-solving.
+- `Systems Thinking`: 
+    - It is a holistic approach to understanding how different components within a system interact with each other to create patterns of behavior and outcomes. 
+    - It emphasizes the interconnectedness of elements within a system and how changes in one part can affect the entire system.
+- `Framework Thinking`: 
+    - It involves the use of structured frameworks or models to organize information, analyze problems, and make decisions. 
+    - Frameworks provide a systematic way of breaking down complex problems into manageable components and identifying key relationships and dependencies.
+    - Mental models can be seen as a part of it.
