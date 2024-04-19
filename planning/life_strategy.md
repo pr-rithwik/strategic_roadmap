@@ -32,4 +32,4 @@
 ![](./gallery/life_portfolio.png)
 
 ##### Ideal Life Portfolio
-![](/gallery/ideal_life_portfolio.png)
+![](./gallery/ideal_life_portfolio.png)
